@@ -1,0 +1,15 @@
+Use Command Line
+
+CREATE REACT APP
+npm install -g create-react-app
+create-react-app my-app
+
+NAVIGATE TO APP
+cd my-app
+
+REMOVE DIRECTORY - Used to clear src folder (css, html, js etc.) 
+rmdir /s /q "C:\Users\Will\my-app\src\
+
+MAKE DIRECTORY - Oops i removed the folder also, put that back 
+md src
+
